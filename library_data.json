@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "title": "Test book",
+        "author": "Test Author",
+        "year": 2012,
+        "status": "в наличии"
+    }
+]
