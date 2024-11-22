@@ -19,4 +19,4 @@
 3. Запустите приложение командой:
 
    ```bash
-   python library.py
+   python library_management.py
